@@ -1,0 +1,169 @@
+Book ID,Book Name,Page Count,Author First Name,Author Last Name,Book Type,Available
+1,A Daughter of the Snows,199,Jack,London,Guide,Available
+2,"The Near East: 10,000 Years of History",298,Isaac,Asimov,Available
+3,The Cocoon: A Rest-Cure Comedy,90,Ruth,Stuart,Diaries,Available
+4,The Freakshow Murders,321,Frederic,Brown,Drama,Available
+5,"Pharaohs, Fellahs and Explorers",367,Amelia B.,Edwards,Available
+6,Hard Times,293,Charles,Dickens,Science fiction,Available
+7,A Modern Instance,222,William Dean,Howells,Diaries,Available
+8,The Real Mother Goose,88,Mother,Goose,Science fiction,Available
+9,A Thousand Miles Up the Nile,110,Amelia B.,Edwards,Art,Available
+10,Children of Blood and Bone,137,Titus,Lucretius,Journals,Available
+11,A pushcart at the curb,95,John,DosPassos,Science fiction,Available
+12,The Desert and the Sown,126,Mary Hallock,Foote,Diaries,Available
+13,Three Soldiers,223,John,DosPassos,History,Available
+14,The End of Eternity,168,Isaac,Asimov,Science fiction,Available
+15,Annie Kilburn,291,William Dean,Howells,Diaries,Available
+16,A Touch of Sun and Other Stories,141,Mary Hallock,Foote,Guide,Available
+17,Show Boat,151,Edna,Ferber,Art,Available
+18,The Call of the Wild,362,Jack,London,Art,Available
+19,My Mark Twain,339,William Dean,Howells,Guide,Available
+20,Broken Ties,134,Rabindranath,Tagore,Romance,Available
+21,Short Stories From American History,305,Albert,Blaisdell,Health,Available
+22,Mrs Rosie and the Priest,104,Givoanni,Boccaccio,Biographies,Available
+23,So Big,209,Edna,Ferber,Drama,Available
+24,Monsieur Maurice ,92,Amelia B.,Edwards,Health,Available
+25,The Master of Ballantrae,236,Robert Louis,Stevenson,Journals,Available
+26,The Unlived Life of Little Mary Ellen,99,Ruth,Stuart,Mystery,Available
+27,Mouse - The Last Train,184,Frederic,Brown,Biographies,Available
+28,Edith Bonham,122,Mary Hallock,Foote,Horror,Available
+29,Maybe Mother Goose,161,Mother,Goose,Biographies,Available
+30,The Noble Gases,321,Isaac,Asimov,Romance,Available
+31,Rainy Week,98,Eleanor Hallowell,Abbott,Horror,Available
+32,A Hazard of New Fortunes,144,William Dean,Howells,Action and Adventure,Available
+33,A Plot for Murder,108,Frederic,Brown,Journals,Available
+34,Nature,357,Ralph Waldo,Emerson,Health,Available
+35,Hickory Dickory Dock,326,Mother,Goose,Mystery,Available
+36,Big Fat Hen,232,Mother,Goose,Diaries,Available
+37,The Lone Star Ranger,328,Zane,Grey,Guide,Available
+38,The Great Fire of London,252,Samuel,Pepys,Guide,Available
+39,White Nights,265,Fyodor,Dostoevsky,Biographies,Available
+40,In a Glass Darkly,173,Joseph Sheridan,LeFanu,Guide,Available
+41,Fanny herself,248,Edna,Ferber,Diaries,Available
+42,Loaded,273,Frederic,Brown,Action and Adventure,Available
+43,A Foregone Conclusion,121,William Dean,Howells,Fantasy,Available
+44,The Hill of Dreams,175,Arthur,Machen,Mystery,Available
+45,Adventure,217,Jack,London,Health,Available
+46,A Tagore Reader,285,Rabindranath,Tagore,Action and Adventure,Available
+47,A Tale of Two Cities,331,Charles,Dickens,Journals,Available
+48,Dombey and Son,344,Charles,Dickens,Biographies,Available
+49,Famous Women,273,Givoanni,Boccaccio,Science fiction,Available
+50,"Rejection, The Ruling Spirit",358,Ellis,Butler,Available
+51,Little Dorrit,314,Charles,Dickens,Journals,Available
+52,The Four-Fifteen Express,201,Amelia B.,Edwards,Satire,Available
+53,Fairy Prince and Other Stories,306,Eleanor Hallowell,Abbott,Fantasy,Available
+54,Ten Tales from the Decameron,183,Givoanni,Boccaccio,Romance,Available
+55,The Double,372,Fyodor,Dostoevsky,Science,Available
+56,A Flight Of Swans,115,Rabindranath,Tagore,Health,Available
+57,The Phantom Coach,243,Amelia B.,Edwards,Science,Available
+58,The Game,209,Jack,London,Diaries,Available
+59,Rico and Wiseli,309,Johanna,Spyri,Health,Available
+60,The Shorter Pepys,276,Samuel,Pepys,Romance,Available
+61,My Life Had Stood a Loaded Gun ,278,Emily,Dickinson,Diaries,Available
+62,A Tagore Testament,268,Rabindranath,Tagore,Fantasy,Available
+63,The Cruise of the Dazzler,140,Jack,London,Diaries,Available
+64,To the Lighthouse,90,Virginia,Woolf,Satire,Available
+65,The Terror,293,Arthur,Machen,Art,Available
+66,The Sick-a-Bed Lady,369,Eleanor Hallowell,Abbott,Guide,Available
+67,Christmas Every Day,98,William Dean,Howells,Journals,Available
+68,The home-maker,316,Dorothy,Canfield,Biographies,Available
+69,The Ground-Swell,193,Mary Hallock,Foote,Diaries,Available
+70,A Sleep and a Forgetting,360,William Dean,Howells,Satire,Available
+71,Nicholas Nickleby,219,Charles,Dickens,Science fiction,Available
+72,The Whole Family: A Novel by Twelve Authors,149,William Dean,Howells,Mystery,Available
+73,Middlemarch,288,George,Eliot,Comics,Available
+74,Life of Dante,156,Givoanni,Boccaccio,Biographies,Available
+75,Short Stories From English History,189,Albert,Blaisdell,Satire,Available
+76,Little Eve Edgarton,306,Eleanor Hallowell,Abbott,Romance,Available
+77,The Kingdom of the Sun,189,Isaac,Asimov,Guide,Available
+78,Indian Summer,107,William Dean,Howells,Biographies,Available
+79,Mrs Dalloway,321,Virginia,Woolf,Romance,Available
+80,Demons,232,Fyodor,Dostoevsky,Fantasy,Available
+81,The Last Trail,116,Zane,Grey,Biographies,Available
+82,The Fredric Brown Megapack,324,Frederic,Brown,History,Available
+83,The Decameron: Selected Tales,337,Givoanni,Boccaccio,Science,Available
+84,Th bent twig,367,Dorothy,Canfield,Drama,Available
+85,Things near and far,199,Arthur,Machen,Mystery,Available
+86,The Story of Salome,316,Amelia B.,Edwards,Comics,Available
+87,The Destruction of Our Children,104,Ellis,Butler,Guide,Available
+88,Collected Stories,295,Rabindranath,Tagore,Action and Adventure,Available
+89,The House of the Dead,209,Fyodor,Dostoevsky,Satire,Available
+90,Sonny: A Christmas Guest,186,Ruth,Stuart,Mystery,Available
+91,Amores,297,Publius,Ovid,Diaries,Available
+92,Chaturanga,218,Rabindranath,Tagore,Diaries,Available
+93,Little Eve Edgarton,247,Eleanor Hallowell,Abbott,Biographies,Available
+94,Chitra,122,Rabindranath,Tagore,Guide,Available
+95,The Iron Heel,81,Jack,London,Fantasy,Available
+96,Self Reliance,137,Ralph Waldo,Emerson,Art,Available
+97,The Great God Pan And The Hill Of Dreams,158,Arthur,Machen,Romance,Available
+98,The White People and Other Weird Stories,100,Arthur,Machen,Fantasy,Available
+99,The Diary of Samuel Pepys: A Selection,271,Samuel,Pepys,Drama,Available
+100,The Rise of Silas Lapham,314,William Dean,Howells,Satire,Available
+101,The Mystery of Edwin Drood,340,Charles,Dickens,Diaries,Available
+102,In Exile and Other Stories,140,Mary Hallock,Foote,Comics,Available
+103,Bleak House,130,Charles,Dickens,Art,Available
+104,U.S.A Trilogy,118,John,DosPassos,Science fiction,Available
+105,A Comedy of Masks,237,Ernest,Dowson,Journals,Available
+106,Barnaby Rudge,380,Charles,Dickens,Diaries,Available
+107,Heroic Deeds of American Sailors,243,Albert,Blaisdell,Science fiction,Available
+108,A Bouquet,309,Ernest,Dowson,Art,Available
+109,Editha,155,William Dean,Howells,Art,Available
+110,Manhattan Transfer,124,John,DosPassos,Drama,Available
+111,Fasti,325,Publius,Ovid,Horror,Available
+112,Hearts of Three,272,Jack,London,Satire,Available
+113,"Speak, Memory",154,Vladimir,Nabokov,Available
+114,Kidnapped,334,Robert Louis,Stevenson,Drama,Available
+115,The Brothers Karamazov,161,Fyodor,Dostoevsky,Mystery,Available
+116,Envelope Poems,342,Emily,Dickinson,Fantasy,Available
+117,Selected Poems,203,Emily,Dickinson,Guide,Available
+118,Gobolinks or Shadow Pictures for Young and Old,332,Ruth,Stuart,Romance,Available
+119,The Decameron,318,Givoanni,Boccaccio,Diaries,Available
+120,The Cock and Anchor,133,Joseph Sheridan,LeFanu,Science fiction,Available
+121,Adrian Rome,259,Ernest,Dowson,Journals,Available
+122,Words in Genesis,217,Isaac,Asimov,Science,Available
+123,Stories of Ohio,191,William Dean,Howells,Romance,Available
+124,Treasure Island,308,Robert Louis,Stevenson,Action and Adventure,Available
+125,Uncle Silas,118,Joseph Sheridan,LeFanu,Science fiction,Available
+126,The Idiot,248,Fyodor,Dostoevsky,Horror,Available
+127,Inside The Atom,176,Isaac,Asimov,Action and Adventure,Available
+128,The Story of Babette: A Little Creole Girl,313,Ruth,Stuart,Romance,Available
+129,The Eternal Husband,225,Fyodor,Dostoevsky,Fantasy,Available
+130,Heidi,146,Johanna,Spyri,Science,Available
+131,The Concise Pepys,303,Samuel,Pepys,Journals,Available
+132,Tales From Shakespeare,121,Albert,Blaisdell,Diaries,Available
+133,Molly Make-Believe,286,Eleanor Hallowell,Abbott,Diaries,Available
+134,"Peace on Earth, Good Will to Dogs",321,Eleanor Hallowell,Abbott,Available
+135,Miss Darkness,360,Frederic,Brown,Health,Available
+136,Poor Folk,202,Fyodor,Dostoevsky,Horror,Available
+137,Their Wedding Journey,132,William Dean,Howells,Art,Available
+138,The Elegy of Lady Fiammetta,157,Givoanni,Boccaccio,Action and Adventure,Available
+139,Art Of Tagore,119,Rabindranath,Tagore,History,Available
+140,Chemistry and Human Health,244,Isaac,Asimov,Journals,Available
+141,Realm of Numbers,279,Isaac,Asimov,Comics,Available
+142,The Kempton-Wace Letters,240,Jack,London,Drama,Available
+143,Crime and Punishment,144,Fyodor,Dostoevsky,Science,Available
+144,Fairy Prince and Other Wonderful Stories,219,Eleanor Hallowell,Abbott,Science fiction,Available
+145,Adam Bede,303,George,Eliot,Action and Adventure,Available
+146,Madam Crowl's ghost,344,Joseph Sheridan,LeFanu,Journals,Available
+147,Is Anyone There?,178,Isaac,Asimov,Biographies,Available
+148,An Imperative Duty,100,William Dean,Howells,Mystery,Available
+149,Adding a Dimension,334,Isaac,Asimov,Comics,Available
+150,The Caves of Steel,98,Isaac,Asimov,Art,Available
+151,Carmilla,91,Joseph Sheridan,LeFanu,Art,Available
+152,1919,105,John,DosPassos,Science,Available
+153,Pale Fire,250,Vladimir,Nabokov,Journals,Available
+154,Martin Chuzzlewit,315,Charles,Dickens,Drama,Available
+155,Understood Betsy,130,Dorothy,Canfield,Horror,Available
+156,The White Linen Nurse,369,Eleanor Hallowell,Abbott,Journals,Available
+157,A Writer's Diary,164,Fyodor,Dostoevsky,Science fiction,Available
+158,Pnin,233,Vladimir,Nabokov,Biographies,Available
+159,Honeymoon in Hell,202,Frederic,Brown,History,Available
+160,The Black Arrow,366,Robert Louis,Stevenson,Diaries,Available
+161,David Copperfield,240,Charles,Dickens,History,Available
+162,Famous Ghost Stories,152,Amelia B.,Edwards,Drama,Available
+163,Book Of Indian Braves,117,Kate Dickinson,Sweetser,Health,Available
+164,Binodini,306,Rabindranath,Tagore,Health,Available
+165,"Holly And Pizen, And Other Stories",220,Ruth,Stuart,Available
+166,Lolita,153,Vladimir,Nabokov,Satire,Available
+167,The Best Short Stories,115,Fyodor,Dostoevsky,Satire,Available
+168,Cimarron,101,Edna,Ferber,Science,Available
